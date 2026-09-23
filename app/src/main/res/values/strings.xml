@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">t1</string>
+    <string name="titulo">PREGUNTA 4:ALQUILER</string>
+    <string name="textminutos">Ingrese minutos extras ocupados</string>
+    <string name="textcalcular">CALCULAR MONTO EXTRA</string>
 </resources>

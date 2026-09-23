@@ -16,6 +16,7 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
+        binding.btnPregunta4.setOnClickListener(this)
         binding.btnPregunta6.setOnClickListener(this)
     }
 
@@ -25,6 +26,11 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
 
             val intent = Intent(this, Pregunta6Activity::class.java)
             startActivity(intent)
+        } else if (v?.id == binding.btnPregunta4.id) {
+
+            val intent = Intent(this, Pregunta4Activity::class.java)
+            startActivity(intent)
         }
     }
 }
+
