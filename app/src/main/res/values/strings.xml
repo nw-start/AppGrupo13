@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AppGrupo13</string>
+    <string name="titulo_main">EVALUACIÓN DE LABORATORIO - T1</string>
+    <string name="subtitulo_main">Grupo 13 - Desarrollo de Aplicaciones Móviles I</string>
+    <string name="btn_p5">Pregunta 5 - Energía en stand</string>
+
+    <string name="titulo_p5">Pregunta 5: Consumo de energía en eventos de ferias y stands</string>
+    <string name="hint_watts">Ingrese potencia consumida en watts</string>
+    <string name="cortesia_p5">Consumo eléctrico dentro de la capacidad asignada.</string>
+
+    <string name="btn_calcular">CALCULAR</string>
+    <string name="btn_regresar">REGRESAR AL MENÚ</string>
+    <string name="resultado_inicial">El resultado se mostrará aquí.</string>
+    <string name="error_numero">Ingrese un valor numérico válido mayor o igual a cero.</string>
+</resources>
