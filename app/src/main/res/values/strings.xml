@@ -12,4 +12,9 @@
     <string name="btn_regresar">REGRESAR AL MENÚ</string>
     <string name="resultado_inicial">El resultado se mostrará aquí.</string>
     <string name="error_numero">Ingrese un valor numérico válido mayor o igual a cero.</string>
+
+    <string name="titulopregunta3">Pregunta 03: Desperdicio de comida</string>
+    <string name="textsobrante">Ingrese comida sobrante</string>
+    <string name="textcalcular">Calcular</string>
+    <string name="textbtnirpregunta4">Ir a pregunta 04</string>
 </resources>

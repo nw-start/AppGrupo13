@@ -25,15 +25,21 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
         }
 
         binding.btnpregunta5.setOnClickListener(this)
+        binding.btnpregunta3.setOnClickListener(this)
     }
 
     override fun onClick(p0: View) {
         when (p0.id) {
             R.id.btnpregunta5 -> irPregunta5()
+            R.id.btnpregunta3 -> irPregunta3()
         }
     }
 
     fun irPregunta5() {
         startActivity(Intent(this, Pregunta5Activity::class.java))
+    }
+
+    fun irPregunta3() {
+        startActivity(Intent(this, Pregunta3Activity::class.java))
     }
 }
