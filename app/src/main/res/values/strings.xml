@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">AppGrupo13</string>
+
+    <string name="titulo_p6">Hospedaje postoperatorio</string>
+    <string name="hint_dias">Días de internamiento</string>
+    <string name="btn_calcular">CALCULAR</string>
+    <string name="resultado_inicial"></string>
+    <string name="btn_regresar">REGRESAR</string>
+    <string name="error_numero">Ingrese una cantidad válida de días.</string>
+    <string name="cortesia_p6">Días cubiertos por el paquete quirúrgico contratado.</string>
 </resources>
