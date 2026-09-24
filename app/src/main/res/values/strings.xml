@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">AppGrupo13</string>
+    <string name="titulo_main">EVALUACIÓN DE LABORATORIO - T1</string>
+    <string name="subtitulo_main">Grupo 13 - Desarrollo de Aplicaciones Móviles I</string>
+
+    <string name="titulopregunta3">Pregunta 03: Desperdicio de comida</string>
+    <string name="textsobrante">Ingrese comida sobrante</string>
+    <string name="textbtnirpregunta4">Ir a pregunta 04</string>
+
+    <string name="titulo">PREGUNTA 4: ALQUILER</string>
+    <string name="textminutos">Ingrese minutos extras ocupados</string>
+    <string name="textcalcular">CALCULAR MONTO EXTRA</string>
+
+    <string name="titulo_p5">Pregunta 5: Consumo de energía en eventos de ferias y stands</string>
+    <string name="hint_watts">Ingrese potencia consumida en watts</string>
+    <string name="cortesia_p5">Consumo eléctrico dentro de la capacidad asignada.</string>
+
+    <string name="titulo_p6">Hospedaje postoperatorio</string>
+    <string name="hint_dias">Días de internamiento</string>
+    <string name="cortesia_p6">Días cubiertos por el paquete quirúrgico contratado.</string>
+
+    <string name="btn_calcular">CALCULAR</string>
+    <string name="btn_regresar">REGRESAR AL MENÚ</string>
+    <string name="resultado_inicial">El resultado se mostrará aquí.</string>
+    <string name="error_numero">Ingrese un valor numérico válido mayor o igual a cero.</string>
 </resources>
